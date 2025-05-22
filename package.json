@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/new-wave-coders/",
+    "build": "vite build --base=/119_html-css_YehorStepanov/",
     "preview": "vite preview"
   },
   "devDependencies": {
